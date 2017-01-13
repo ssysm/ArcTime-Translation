@@ -11,7 +11,15 @@ Software Created by @acely
 
 This translation was created by @ssysm
 
+－－－－－－－－－－－－－－－－－－－－－
 
+翻译者:
+
+
+等待／Pending...
+
+
+－－－－－－－－－－－－－－－－－－－－－
 ArcTime官网：arctime.org
 
 ArcTime Offical Website:arctime.org
