@@ -13,7 +13,13 @@ This translation was created by @ssysm
 
 －－－－－－－－－－－－－－－－－－－－－
 
+
 翻译者:
+
+
+Translator:
+
+
 
 
 等待／Pending...
