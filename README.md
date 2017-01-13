@@ -1,11 +1,16 @@
 # ArcTime-Translation
 ArcTime的英文翻译
 
+软件由：@acely 编写
+
+
+Software Created by @acely
 
 本翻译由@ssysm 创建
 
 
 This translation was created by @ssysm
+
 
 ArcTime官网：arctime.org
 
