@@ -28,9 +28,9 @@ Translator:
 －－－－－－－－－－－－－－－－－－－－－
 
 
-ArcTime官网：arctime.org
+ArcTime官网：arctime.cn
 
-ArcTime Offical Website:arctime.org
+ArcTime Offical Website:arctime.cn
 
 #Arctime 简单、强大、高效的跨平台字幕制作软件
 
